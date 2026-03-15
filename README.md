@@ -2,7 +2,7 @@
 
 I'm a Software Engineering graduate based in **Berlin, Germany** focused on **DevOps, Cloud Engineering, and Blockchain security**.
 
-My Master's thesis — [DaoChain](https://github.com/kunjexe/daochain-thesis) — is a blockchain-based framework that uses Ethereum smart contracts to verify Docker images and Git commits before they hit production pipelines. Currently building **KubeGuard**, which extends that idea into the cloud using Terraform, Kubernetes, and automated vulnerability scanning with Trivy.
+My Master's thesis [DaoChain](https://github.com/kunjexe/daochain-thesis) is a blockchain-based framework that uses Ethereum smart contracts to verify Docker images and Git commits before they hit production pipelines. Currently building **KubeGuard**, which extends that idea into the cloud using Terraform, Kubernetes, and automated vulnerability scanning with Trivy.
 
 ---
 
